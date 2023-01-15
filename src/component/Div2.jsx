@@ -3,7 +3,7 @@ import { Component } from 'react';
 import  './Function.css'
 
 
-class Div2 extends React.Component {
+class Div2 extends Component {
   render() {
     return (
       <div>
